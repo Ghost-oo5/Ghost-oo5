@@ -1,4 +1,3 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/rentistan-react-native-app.appspot.com/o/Abdul%20Basit%20(Passport%20size%20pic).jpg?alt=media&token=fcf6e84a-0916-43b2-a44c-f4ac30ffb53f" width="200">
 
 # Abdul Basit
 
