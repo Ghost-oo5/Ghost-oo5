@@ -28,7 +28,7 @@ Eager to collaborate on open-source projects and contribute to the developer com
 
 ## 📫 Connect with Me:
 
-LinkedIn
-Email
+[LinkedIn](https://www.linkedin.com/in/abdul-basit-304917280/)
+rajaabdulbasit005@gmail.com
 Let's build something amazing together!
 
