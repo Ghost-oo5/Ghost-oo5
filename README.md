@@ -9,7 +9,7 @@ Developed several projects for personal growth and freelance clients.
 Contributed to large-scale IoT projects with the organization "Juhuu," enhancing my skills in integrating web technologies with IoT systems.
 
 ## 🔧 Technical Skills:
-**Frontend: React, HTML, CSS, JavaScript**
+**Frontend: React, Typescript, JavaScript**
 
  **Mobile Development: React Native (beginner)**
 
