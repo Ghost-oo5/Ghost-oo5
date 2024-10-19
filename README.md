@@ -1,7 +1,7 @@
 
 # Abdul Basit
 
-👋 Hi there! I'm Abdul Basit, an Information Technology graduate with a passion for web development. I specialize in building modern, responsive web applications using React, CSS, HTML, and JavaScript. I'm also venturing into the world of React Native to expand my skill set in mobile app development.
+👋 Hi there! I'm Abdul Basit, an Information Technology graduate with a passion for web development. I specialize in building modern, responsive web applications using React, Typescript and JavaScript. I'm also venturing into the world of React Native to expand my skill set in mobile app development.
 
 ## 💼 Professional Experience:
 
